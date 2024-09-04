@@ -1,0 +1,1533 @@
+Time Period: 9600 BC
+RELIGION: 
+  - ritual
+  - ritual practices
+  - belief
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.11011904761904763
+  - Subjectivity: 0.4764880952380952
+  - Category: Positive
+---------
+Time Period: 9500 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.15833333333333335
+  - Subjectivity: 0.42738095238095236
+  - Category: Positive
+---------
+Time Period: 9400 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.10260416666666668
+  - Subjectivity: 0.34427083333333336
+  - Category: Positive
+---------
+Time Period: 9300 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.12972027972027972
+  - Subjectivity: 0.4798368298368298
+  - Category: Positive
+---------
+Time Period: 9200 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.1446886446886447
+  - Subjectivity: 0.3888278388278387
+  - Category: Positive
+---------
+Time Period: 9100 BC
+RELIGION: 
+  - rituals
+  - rituals
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.16263736263736264
+  - Subjectivity: 0.36703296703296695
+  - Category: Positive
+---------
+Time Period: 9000 BC
+RELIGION: 
+  - rituals
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.15529100529100529
+  - Subjectivity: 0.4105820105820106
+  - Category: Positive
+---------
+Time Period: 8900 BC
+RELIGION: 
+  - rituals
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.1738095238095238
+  - Subjectivity: 0.42261904761904756
+  - Category: Positive
+---------
+Time Period: 8800 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.15347222222222223
+  - Subjectivity: 0.41180555555555554
+  - Category: Positive
+---------
+Time Period: 8700 BC
+RELIGION: 
+  - rituals
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.17575757575757578
+  - Subjectivity: 0.406969696969697
+  - Category: Positive
+---------
+Time Period: 8600 BC
+RELIGION: 
+  - rituals
+  - ritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.13228438228438227
+  - Subjectivity: 0.4272727272727273
+  - Category: Positive
+---------
+Time Period: 8500 BC
+RELIGION: 
+  - ritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.18704906204906202
+  - Subjectivity: 0.40378787878787864
+  - Category: Positive
+---------
+Time Period: 8400 BC
+RELIGION: 
+  - ritual
+  - Ritual
+  - Ritual practices
+  - rituals
+CONSCIOUSNESS: 
+  - collective
+Sentiment Analysis:
+  - Polarity: 0.15745098039215688
+  - Subjectivity: 0.423921568627451
+  - Category: Positive
+---------
+Time Period: 8300 BC
+RELIGION: 
+  - ritual
+CONSCIOUSNESS: 
+  - collective
+Sentiment Analysis:
+  - Polarity: 0.17825396825396825
+  - Subjectivity: 0.416984126984127
+  - Category: Positive
+---------
+Time Period: 8200 BC
+RELIGION: 
+  - rituals
+  - ritual
+  - religion
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.21333333333333332
+  - Subjectivity: 0.4083333333333333
+  - Category: Positive
+---------
+Time Period: 8100 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.20833333333333331
+  - Subjectivity: 0.45583333333333337
+  - Category: Positive
+---------
+Time Period: 8000 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.13645833333333335
+  - Subjectivity: 0.37395833333333334
+  - Category: Positive
+---------
+Time Period: 7900 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.14107744107744105
+  - Subjectivity: 0.5134680134680134
+  - Category: Positive
+---------
+Time Period: 7800 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.1940771349862259
+  - Subjectivity: 0.3774793388429752
+  - Category: Positive
+---------
+Time Period: 7700 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.14263157894736841
+  - Subjectivity: 0.3898245614035088
+  - Category: Positive
+---------
+Time Period: 7600 BC
+RELIGION: 
+  - ritual
+  - Rituals
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.24843749999999998
+  - Subjectivity: 0.4671875
+  - Category: Positive
+---------
+Time Period: 7500 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.168
+  - Subjectivity: 0.3861666666666667
+  - Category: Positive
+---------
+Time Period: 7400 BC
+RELIGION: 
+  - ritual
+  - Rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.13541666666666669
+  - Subjectivity: 0.38229166666666675
+  - Category: Positive
+---------
+Time Period: 7300 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.17192982456140352
+  - Subjectivity: 0.42192982456140354
+  - Category: Positive
+---------
+Time Period: 7200 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.14924242424242426
+  - Subjectivity: 0.3909090909090909
+  - Category: Positive
+---------
+Time Period: 7100 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.1734848484848485
+  - Subjectivity: 0.4068181818181818
+  - Category: Positive
+---------
+Time Period: 7000 BC
+RELIGION: 
+  - ritual
+  - Rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.12300000000000003
+  - Subjectivity: 0.3836666666666667
+  - Category: Positive
+---------
+Time Period: 6900 BC
+RELIGION: 
+  - ritual
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.1794736842105263
+  - Subjectivity: 0.39333333333333337
+  - Category: Positive
+---------
+Time Period: 6800 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.16674242424242425
+  - Subjectivity: 0.3984090909090909
+  - Category: Positive
+---------
+Time Period: 6700 BC
+RELIGION: 
+  - ritual
+  - Rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.17190476190476192
+  - Subjectivity: 0.3892063492063492
+  - Category: Positive
+---------
+Time Period: 6600 BC
+RELIGION: 
+  - ritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.1730952380952381
+  - Subjectivity: 0.41420634920634913
+  - Category: Positive
+---------
+Time Period: 6500 BC
+RELIGION: 
+  - ritual
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.16333333333333336
+  - Subjectivity: 0.3995454545454545
+  - Category: Positive
+---------
+Time Period: 6400 BC
+RELIGION: 
+  - ritual
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.15573333333333333
+  - Subjectivity: 0.39093333333333335
+  - Category: Positive
+---------
+Time Period: 6300 BC
+RELIGION: 
+  - ritual
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.16929824561403511
+  - Subjectivity: 0.3508771929824562
+  - Category: Positive
+---------
+Time Period: 6200 BC
+RELIGION: 
+  - ritual
+  - spiritual
+  - spiritual
+  - ritual
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.1565217391304348
+  - Subjectivity: 0.40869565217391307
+  - Category: Positive
+---------
+Time Period: 6100 BC
+RELIGION: 
+  - ritual
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+  - collective
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.16255760368663594
+  - Subjectivity: 0.4243087557603686
+  - Category: Positive
+---------
+Time Period: 6000 BC
+RELIGION: 
+  - spiritual
+  - ritual
+  - spiritual
+  - Rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.18146167557932258
+  - Subjectivity: 0.46042780748663104
+  - Category: Positive
+---------
+Time Period: 5900 BC
+RELIGION: 
+  - spiritual
+  - ritual
+  - ritual
+  - spiritual
+  - Rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.1901041666666666
+  - Subjectivity: 0.40781249999999997
+  - Category: Positive
+---------
+Time Period: 5800 BC
+RELIGION: 
+  - spiritual
+  - ritual
+  - spiritual
+  - Rituals
+  - worship
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.1718468468468468
+  - Subjectivity: 0.4078828828828828
+  - Category: Positive
+---------
+Time Period: 5700 BC
+RELIGION: 
+  - spiritual
+  - ritual
+  - rituals
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.1514367816091954
+  - Subjectivity: 0.3968390804597701
+  - Category: Positive
+---------
+Time Period: 5600 BC
+RELIGION: 
+  - ritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.13718820861678005
+  - Subjectivity: 0.40770975056689335
+  - Category: Positive
+---------
+Time Period: 5500 BC
+RELIGION: 
+  - ritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.1555764411027569
+  - Subjectivity: 0.3651002506265664
+  - Category: Positive
+---------
+Time Period: 5400 BC
+RELIGION: 
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.12033333333333333
+  - Subjectivity: 0.348
+  - Category: Positive
+---------
+Time Period: 5300 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.05789473684210527
+  - Subjectivity: 0.29298245614035084
+  - Category: Positive
+---------
+Time Period: 5200 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.06217948717948718
+  - Subjectivity: 0.2512820512820513
+  - Category: Positive
+---------
+Time Period: 5100 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - consciousness
+Sentiment Analysis:
+  - Polarity: -0.001041666666666662
+  - Subjectivity: 0.18229166666666669
+  - Category: Negative
+---------
+Time Period: 5000 BC
+RELIGION: 
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.11911764705882355
+  - Subjectivity: 0.2916666666666666
+  - Category: Positive
+---------
+Time Period: 4900 BC
+RELIGION: 
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.03461538461538462
+  - Subjectivity: 0.19871794871794873
+  - Category: Positive
+---------
+Time Period: 4800 BC
+RELIGION: 
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: -0.013095238095238092
+  - Subjectivity: 0.30357142857142855
+  - Category: Negative
+---------
+Time Period: 4700 BC
+RELIGION: 
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.0851851851851852
+  - Subjectivity: 0.42500000000000004
+  - Category: Positive
+---------
+Time Period: 4600 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.03333333333333333
+  - Subjectivity: 0.06666666666666667
+  - Category: Positive
+---------
+Time Period: 4500 BC
+RELIGION: 
+  - spiritual
+  - rituals
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.028431372549019604
+  - Subjectivity: 0.3441176470588236
+  - Category: Positive
+---------
+Time Period: 4400 BC
+RELIGION: 
+  - ritual
+  - rituals
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 8.0953762212251e-18
+  - Subjectivity: 0.39166666666666666
+  - Category: Positive
+---------
+Time Period: 4300 BC
+RELIGION: 
+  - ritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.004166666666666675
+  - Subjectivity: 0.4208333333333334
+  - Category: Positive
+---------
+Time Period: 4200 BC
+RELIGION: 
+  - ritual
+  - rituals
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.06369047619047619
+  - Subjectivity: 0.37321428571428567
+  - Category: Positive
+---------
+Time Period: 4100 BC
+RELIGION: 
+  - ritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.057692307692307696
+  - Subjectivity: 0.3923076923076922
+  - Category: Positive
+---------
+Time Period: 4000 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.029166666666666664
+  - Subjectivity: 0.31250000000000006
+  - Category: Positive
+---------
+Time Period: 3900 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.03333333333333333
+  - Subjectivity: 0.29333333333333333
+  - Category: Positive
+---------
+Time Period: 3800 BC
+RELIGION: 
+  - ritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.06250000000000001
+  - Subjectivity: 0.31250000000000006
+  - Category: Positive
+---------
+Time Period: 3700 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.028571428571428574
+  - Subjectivity: 0.29285714285714287
+  - Category: Positive
+---------
+Time Period: 3600 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.07857142857142858
+  - Subjectivity: 0.3071428571428571
+  - Category: Positive
+---------
+Time Period: 3500 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.0642857142857143
+  - Subjectivity: 0.3642857142857142
+  - Category: Positive
+---------
+Time Period: 3400 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.05666666666666667
+  - Subjectivity: 0.33888888888888885
+  - Category: Positive
+---------
+Time Period: 3300 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.09333333333333334
+  - Subjectivity: 0.37999999999999995
+  - Category: Positive
+---------
+Time Period: 3200 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.08076923076923079
+  - Subjectivity: 0.308974358974359
+  - Category: Positive
+---------
+Time Period: 3100 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.10494505494505495
+  - Subjectivity: 0.3675824175824175
+  - Category: Positive
+---------
+Time Period: 3000 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.13526785714285713
+  - Subjectivity: 0.39241071428571417
+  - Category: Positive
+---------
+Time Period: 2900 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.06860119047619048
+  - Subjectivity: 0.34866071428571427
+  - Category: Positive
+---------
+Time Period: 2800 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.08984126984126985
+  - Subjectivity: 0.31301587301587297
+  - Category: Positive
+---------
+Time Period: 2700 BC
+RELIGION: 
+  - ritual
+  - ritual practices
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.12125850340136056
+  - Subjectivity: 0.33894557823129245
+  - Category: Positive
+---------
+Time Period: 2600 BC
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.0
+  - Subjectivity: 0.0
+  - Category: Neutral
+---------
+Time Period: 2500 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - Ancient
+  - ancient
+Sentiment Analysis:
+  - Polarity: 0.06240079365079367
+  - Subjectivity: 0.33869047619047615
+  - Category: Positive
+---------
+Time Period: 2400 BC
+RELIGION: 
+  - spiritual
+  - ritual
+CONSCIOUSNESS: 
+  - consciousness
+  - Ancient
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.0861344537815126
+  - Subjectivity: 0.4683473389355742
+  - Category: Positive
+---------
+Time Period: 2300 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+  - Ancient
+  - consciousness
+  - collective
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.11666666666666667
+  - Subjectivity: 0.3773148148148148
+  - Category: Positive
+---------
+Time Period: 2200 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+  - worship
+  - spiritual
+  - rituals
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - Ancient
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.0015873015873015882
+  - Subjectivity: 0.2674603174603175
+  - Category: Positive
+---------
+Time Period: 2100 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - rituals
+  - worship
+  - religion
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - collective
+  - consciousness
+  - Ancient
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.05513392857142858
+  - Subjectivity: 0.32120535714285714
+  - Category: Positive
+---------
+Time Period: 2000 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - rituals
+  - worship
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - Ancient
+  - collective
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.06208791208791209
+  - Subjectivity: 0.37161172161172173
+  - Category: Positive
+---------
+Time Period: 1900 BC
+RELIGION: 
+  - spiritual
+  - rituals
+  - worship
+  - spiritual
+  - rituals
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.053623188405797106
+  - Subjectivity: 0.43913043478260866
+  - Category: Positive
+---------
+Time Period: 1800 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - rituals
+  - rituals
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+  - Ancient
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.03253968253968254
+  - Subjectivity: 0.36369047619047623
+  - Category: Positive
+---------
+Time Period: 1700 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - rituals
+  - rituals
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - collective
+  - consciousness
+  - Ancient
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.03253968253968254
+  - Subjectivity: 0.36369047619047623
+  - Category: Positive
+---------
+Time Period: 1600 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - ritual
+  - ritual
+  - ritual practices
+  - ritual
+  - ritual practices
+  - spiritual
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - thought
+  - Ancient
+Sentiment Analysis:
+  - Polarity: 0.11362203972498089
+  - Subjectivity: 0.46175833969951613
+  - Category: Positive
+---------
+Time Period: 1500 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+  - ritual
+  - worship
+  - spiritual
+  - spiritual
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - thought
+  - Ancient
+Sentiment Analysis:
+  - Polarity: 0.07393742621015348
+  - Subjectivity: 0.35363701954611043
+  - Category: Positive
+---------
+Time Period: 1400 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+  - worship
+  - spiritual
+  - spiritual
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - ancient
+Sentiment Analysis:
+  - Polarity: 0.07819264069264069
+  - Subjectivity: 0.36513949013949004
+  - Category: Positive
+---------
+Time Period: 1300 BC
+RELIGION: 
+  - spiritual
+  - beliefs
+  - belief
+  - spiritual
+  - spiritual
+  - rituals
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - Ancient
+Sentiment Analysis:
+  - Polarity: 0.07080558330558329
+  - Subjectivity: 0.4154345654345654
+  - Category: Positive
+---------
+Time Period: 1200 BC
+RELIGION: 
+  - spiritual
+  - belief
+  - spiritual
+  - rituals
+  - spiritual
+  - rituals
+CONSCIOUSNESS: 
+  - consciousness
+  - Ancient
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.0676488095238095
+  - Subjectivity: 0.420297619047619
+  - Category: Positive
+---------
+Time Period: 1100 BC
+RELIGION: 
+  - beliefs
+  - spiritual
+  - belief
+  - rituals
+  - rituals
+  - spiritual
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - thought
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.024549941927990704
+  - Subjectivity: 0.3183507549361208
+  - Category: Positive
+---------
+Time Period: 1000 BC
+RELIGION: 
+  - worship
+  - belief
+  - Ritual
+  - Ritual practices
+  - ritual
+  - ritual practices
+  - ritual
+  - ritual practices
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+CONSCIOUSNESS: 
+  - thought
+  - consciousness
+  - Ancient
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.07998120300751879
+  - Subjectivity: 0.3307957393483709
+  - Category: Positive
+---------
+Time Period: 900 BC
+RELIGION: 
+  - spiritual
+  - worship
+  - spiritual
+  - Ritual
+  - Ritual practices
+  - worship
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+  - ritual
+CONSCIOUSNESS: 
+  - self
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.052228682170542634
+  - Subjectivity: 0.3488372093023256
+  - Category: Positive
+---------
+Time Period: 800 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+  - spiritual belief
+  - belief
+  - ritual
+CONSCIOUSNESS: 
+  - thought
+  - thought
+  - self
+  - consciousness
+  - consciousness
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.040306122448979596
+  - Subjectivity: 0.34421768707482986
+  - Category: Positive
+---------
+Time Period: 700 BC
+RELIGION: 
+  - worship
+  - religion
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - thought
+  - thought
+  - consciousness
+  - thought
+  - consciousness
+  - consciousness
+  - collective
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.06376262626262627
+  - Subjectivity: 0.3469336219336219
+  - Category: Positive
+---------
+Time Period: 600 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - Ancient
+  - ancient
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.03965999278499279
+  - Subjectivity: 0.3204274891774891
+  - Category: Positive
+---------
+Time Period: 500 BC
+RELIGION: 
+  - religion
+  - religions
+  - worship
+  - worship
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+CONSCIOUSNESS: 
+  - ancient
+  - Ancient
+  - thought
+  - thought
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.0764227642276423
+  - Subjectivity: 0.36910569105691055
+  - Category: Positive
+---------
+Time Period: 400 BC
+RELIGION: 
+  - religion
+  - religions
+  - worship
+  - worship
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+CONSCIOUSNESS: 
+  - ancient
+  - Ancient
+  - thought
+  - thought
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.0764227642276423
+  - Subjectivity: 0.36910569105691055
+  - Category: Positive
+---------
+Time Period: 300 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+  - rituals
+CONSCIOUSNESS: 
+  - thought
+  - consciousness
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.11104651162790696
+  - Subjectivity: 0.33992248062015507
+  - Category: Positive
+---------
+Time Period: 200 BC
+RELIGION: 
+  - spiritual
+  - spiritual
+  - ritual
+CONSCIOUSNESS: 
+  - thought
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.1319196428571428
+  - Subjectivity: 0.38092261904761904
+  - Category: Positive
+---------
+Time Period: 100 BC
+RELIGION: 
+  - religion
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - thought
+Sentiment Analysis:
+  - Polarity: 0.07626262626262625
+  - Subjectivity: 0.3858585858585859
+  - Category: Positive
+---------
+Time Period: 0 AD
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - thought
+Sentiment Analysis:
+  - Polarity: 0.09397435897435898
+  - Subjectivity: 0.44064102564102564
+  - Category: Positive
+---------
+Time Period: 100 AD
+RELIGION: 
+  - rituals
+  - beliefs
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.04922619047619048
+  - Subjectivity: 0.4803968253968254
+  - Category: Positive
+---------
+Time Period: 200 AD
+RELIGION: 
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.12146164021164021
+  - Subjectivity: 0.4056547619047619
+  - Category: Positive
+---------
+Time Period: 300 AD
+RELIGION: 
+  - religion
+  - religion
+  - religions
+  - religions
+  - spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.11759259259259257
+  - Subjectivity: 0.3425925925925925
+  - Category: Positive
+---------
+Time Period: 400 AD
+RELIGION: 
+  - religion
+  - religion
+  - religion
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.15034013605442176
+  - Subjectivity: 0.40646258503401356
+  - Category: Positive
+---------
+Time Period: 500 AD
+RELIGION: 
+  - spiritual
+  - religion
+  - religions
+  - religion
+CONSCIOUSNESS: 
+  - ancient
+  - ancient
+Sentiment Analysis:
+  - Polarity: 0.09724993440902531
+  - Subjectivity: 0.3730168568804933
+  - Category: Positive
+---------
+Time Period: 600 AD
+RELIGION: 
+  - religion
+  - religion
+  - religion
+  - religion
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.1272727272727273
+  - Subjectivity: 0.43799242424242435
+  - Category: Positive
+---------
+Time Period: 700 AD
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.13279837251356233
+  - Subjectivity: 0.39323387582881264
+  - Category: Positive
+---------
+Time Period: 800 AD
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+  - spiritual
+  - spiritual
+  - beliefs
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - thought
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.07228976697061804
+  - Subjectivity: 0.2506079027355623
+  - Category: Positive
+---------
+Time Period: 900 AD
+RELIGION: 
+  - beliefs
+  - spiritual
+  - spiritual
+  - Spiritual
+CONSCIOUSNESS: 
+  - None
+Sentiment Analysis:
+  - Polarity: 0.07897727272727273
+  - Subjectivity: 0.3001893939393939
+  - Category: Positive
+---------
+Time Period: 1000 AD
+RELIGION: 
+  - spiritual
+  - spiritual
+  - spiritual
+  - Spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.1392361111111111
+  - Subjectivity: 0.3277777777777777
+  - Category: Positive
+---------
+Time Period: 1100 AD
+RELIGION: 
+  - religion
+  - spiritual
+  - spiritual
+  - spiritual
+  - spiritual
+  - spiritual
+  - Spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.10390070921985814
+  - Subjectivity: 0.2999999999999999
+  - Category: Positive
+---------
+Time Period: 1200 AD
+RELIGION: 
+  - spiritual
+  - spiritual
+  - rituals
+  - spiritual
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+CONSCIOUSNESS: 
+  - consciousness
+  - consciousness
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.08010822510822509
+  - Subjectivity: 0.3350649350649349
+  - Category: Positive
+---------
+Time Period: 1300 AD
+RELIGION: 
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - thought
+  - consciousness
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.07464080459770114
+  - Subjectivity: 0.31048850574712644
+  - Category: Positive
+---------
+Time Period: 1400 AD
+RELIGION: 
+  - spiritual
+  - spiritual beliefs
+  - beliefs
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.08798076923076922
+  - Subjectivity: 0.3524038461538461
+  - Category: Positive
+---------
+Time Period: 1500 AD
+RELIGION: 
+  - spiritual
+  - rituals
+  - spiritual
+  - spiritual
+CONSCIOUSNESS: 
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.12870238095238093
+  - Subjectivity: 0.4015714285714285
+  - Category: Positive
+---------
+Time Period: 1600 AD
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.11272727272727272
+  - Subjectivity: 0.34575757575757576
+  - Category: Positive
+---------
+Time Period: 1700 AD
+RELIGION: 
+  - religion
+CONSCIOUSNESS: 
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.10227272727272725
+  - Subjectivity: 0.2806060606060606
+  - Category: Positive
+---------
+Time Period: 1800 AD
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.07048611111111112
+  - Subjectivity: 0.27861111111111114
+  - Category: Positive
+---------
+Time Period: 1900 AD
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - consciousness
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.1036034688995215
+  - Subjectivity: 0.3010466507177035
+  - Category: Positive
+---------
+Time Period: 2000 AD
+RELIGION: 
+  - None
+CONSCIOUSNESS: 
+  - consciousness
+Sentiment Analysis:
+  - Polarity: 0.12500000000000003
+  - Subjectivity: 0.2869402985074626
+  - Category: N/A
+---------
