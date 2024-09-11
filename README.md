@@ -41,7 +41,7 @@ Matplotlib: For data visualization.
 
 1) Clone the repository:
 
-git clone https://github.com/yourusername/human-consciousness-mapping.git
+git clone https://github.com/2000dann/Human_Religion_and_Consciousness_Mapping_Project.py
 
 2) Navigate to the project directory:
 
